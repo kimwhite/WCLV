@@ -1,11 +1,19 @@
-body{background-color: smoke;}
-
-h1{font-size: 32px;}
-
-body{
-	font-size: 15px;
+body {
+    background-color: smoke;
 }
 
-p{
-	color: blue;
+h1 {
+    font-size: 32px;
+}
+
+body {
+    font-size: 15px;
+}
+
+p {
+    color: blue;
+}
+
+ul {
+    color: red;
 }
