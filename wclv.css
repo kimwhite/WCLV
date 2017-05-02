@@ -17,3 +17,7 @@ p {
 ul {
     color: red;
 }
+
+li {
+    line-height: 2.5;
+}
