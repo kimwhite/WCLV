@@ -7,18 +7,18 @@ h1 {
 }
 
 body {
-    font-size: 15px;
+    font-size: 16px;
 }
 
 p {
-    color: blue;
+    color: #000;
 }
 
 ul {
-    color: red;
+    color: #999;
 }
 
 li {
-    line-height: 2.5;
+    line-height: 2.2;
 }
 
