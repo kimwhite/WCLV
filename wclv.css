@@ -307,8 +307,8 @@ img {
 --------------------------------------------------------------*/
 
 #after-header-widgets {
-	background: url('https://2017.lehighvalley.wordcamp.org/files/2017/05/olddt.jpg') center no-repeat;
-	height: 608px;
+	background: url('https://2017.lehighvalley.wordcamp.org/files/2017/05/WordCampLV-header17.png') center no-repeat;
+	height: 160px;
 }
 #after-header-widgets .textwidget {
 	display: block;
