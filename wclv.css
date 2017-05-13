@@ -307,8 +307,9 @@ img {
 --------------------------------------------------------------*/
 
 #after-header-widgets {
-	background: #333 url('https://2016.lehighvalley.wordcamp.org/files/2016/03/placeholder-bg_03@2x.jpg') center no-repeat;
-	height: 300px;
+	/* background: #333 url('https://2016.lehighvalley.wordcamp.org/files/2016/03/placeholder-bg_03@2x.jpg') center no-repeat; */
+	background-color:blue;
+	height: 350px;
 }
 #after-header-widgets .textwidget {
 	display: block;
