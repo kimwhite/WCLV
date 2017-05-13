@@ -309,13 +309,13 @@ img {
 #after-header-widgets {
 	/* background: #333 url('https://2016.lehighvalley.wordcamp.org/files/2016/03/placeholder-bg_03@2x.jpg') center no-repeat; */
 	background-color:#10759b;
-	height: 500px;
+	height: 450px;
 }
 #after-header-widgets .textwidget {
 	display: block;
 	margin: 0 auto;
 	padding-top: 15px;
-	max-width: 360px;
+	max-width: 390px;
 }
 #before-content-widgets {
 	background-color: #fff;
