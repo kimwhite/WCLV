@@ -385,6 +385,8 @@ img {
 	content: '\f204';
 }
 
+.logo-icon{margin:0 auto;}
+
 .logo-icon p{
     text-align: center;
     margin-bottom: 0;
