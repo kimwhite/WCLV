@@ -3,7 +3,7 @@
 
 /** *
 *
-* WC Sacramento 2015  
+* WC Lehigh Valley 2017 
 *
 * **/
 
@@ -818,6 +818,15 @@ button:hover, html input[type="button"]:hover, input[type="reset"]:hover, input[
 .tix-submit {
 	text-align: left !important;
 }
+
+.tix-ticket-excerpt {
+    font-size: 90%;
+}
+.tix-column-price{font-weight:700;}
+td.tix-column-remaining {
+    text-align: center;
+}
+
 .contact-form input[type="email"], .contact-form input[type="text"], .contact-form textarea {
 	margin-bottom: 0;
 }
