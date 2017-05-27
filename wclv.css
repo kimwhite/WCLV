@@ -141,9 +141,9 @@ img {
 }
 .entry-content ul li::before, #secondary ul li::before {
 	color: #083f76;
-	content: "\f428";
+	content: "\f464";
 	display: block;
-	font: normal 20px/1 'Genericons';
+	font: normal 20px/1 'dashicons';
 	height: 0;
 	left: -25px;
 	position: relative;
