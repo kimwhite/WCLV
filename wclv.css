@@ -521,6 +521,18 @@ a.more-link:hover, .simple-button:hover {
 	
 }
 
+.wcorg-organizer-description .avatar-default, .wcorg-organizer-description .avatar, .type-wcb_speaker .avatar-default, .type-wcb_speaker .avatar, .wcorg-speaker-description .avatar-default, .wcorg-speaker-description .avatar {
+    float: left;
+    margin: .4em 1em 1em 0;
+    border: 2px solid #c3dce6;
+    border-radius: 50%;
+    pointer-events: none;
+}
+.wcorg-speaker-description .avatar, .type-wcb_speaker .avatar {
+    margin: 0 1em .5em 0;
+}
+
+
 /* Organizers */
 
 .wcorg-organizer {
