@@ -535,6 +535,10 @@ a.more-link:hover, .simple-button:hover {
 
 /* Organizers */
 
+.wcorg-organizer .sharedaddy {
+    display: none;
+}
+
 .wcorg-organizer {
 	border-bottom: 1px solid #ccc;
 	clear: both;
