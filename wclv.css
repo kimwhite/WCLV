@@ -532,7 +532,6 @@ a.more-link:hover, .simple-button:hover {
     margin: 0 1em .5em 0;
 }
 
-
 /* Organizers */
 
 .wcorg-organizer .sharedaddy {
@@ -905,15 +904,8 @@ td.tix-column-remaining {
 		margin-top: 0;
 		max-width: 100%;
 		width: 100%;
-	}
-	/*.site-footer {
-																																																																	background: #0099a7;
-																																																																	height: auto;
-																																																																}
-																																																																
-																																																																.site-footer .site-info {
-																																																																	padding: 30px 0;
-																																																																}*/
+	}																											
+
 	.five-sixths, .four-sixths, .four-fifths, .one-fifth, .one-fourth, .one-half, .one-sixth, .one-third, .three-fourths, .three-fifths, .three-sixths, .two-fourths, .two-fifths, .two-sixths, .two-thirds {
 		margin: 0;
 		width: 100%;
