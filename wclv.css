@@ -546,7 +546,11 @@ a.more-link:hover, .simple-button:hover {
 	padding-bottom: 35px;
 }
 .wcorg-organizer-description .avatar {
-	display: none;
+	float: left;
+    margin: .4em 1em 1em 0;
+    border: 2px solid #c3dce6;
+    border-radius: 50%;
+    pointer-events: none;
 }
 
 /* Sessions */
