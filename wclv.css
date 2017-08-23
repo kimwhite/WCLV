@@ -564,7 +564,7 @@ a.more-link:hover, .simple-button:hover {
 	padding: 0;
 }
 .single-wcb_session .session-speakers, .single-wcb_session #session-speaker-names, .single-wcb_session #comments {
-	display: none;
+	/* display: none; */
 }
 
 /* Schedule */
